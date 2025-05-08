@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farah Chahrazed Selmi</h1>
 <h3 align="center">Based in Tunisia | Data Scientist | AI & ML Enthusiast|</h3>
 
+- 👉 My goal **is to turn complex ideas into simple and innovative tech solutions.**
+
 - 🌱 Always learning and exploring the latest innovations in Data Science & AI **in Data Science & AI**
 
+- ➡️ For more information **about my projects, feel free to visit my LinkedIn profile.**
 
 - 📫 How to reach me **farahchahrazed.selmi@esprit.tn**
 
